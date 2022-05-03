@@ -1,0 +1,5 @@
+conda activate regression-py-dev
+conda deactivate
+
+conda activate classification-py-dev
+conda deactivate
